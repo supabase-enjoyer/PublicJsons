@@ -1,3 +1,6 @@
 {
-"employees": "test123"
+   "title":"title1",
+   "description":"description1",
+   "place":"place1",
+   "date":"date1"
 }
