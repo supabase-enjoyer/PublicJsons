@@ -1,6 +1,28 @@
 {
-   "title":"title1",
-   "description":"description1",
-   "place":"place1",
-   "date":"date1"
+   "events":{
+      "2022":{
+         "grudzien":{
+            "1":[
+               {
+                  "title":"title1",
+                  "description":"description1",
+                  "place":"place1",
+                  "date":"date1"
+               },
+               {
+                  "title":"title2",
+                  "description":"description2",
+                  "place":"place2",
+                  "date":"date2"
+               },
+               {
+                  "title":"title3",
+                  "description":"description3",
+                  "place":"place3",
+                  "date":"date3"
+               }
+            ]
+         }
+      }
+   }
 }
